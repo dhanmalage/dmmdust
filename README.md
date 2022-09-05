@@ -24,7 +24,7 @@
 <br>
 <br>
 
-## 🛠️ My Skills
+## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="center"> 
   &emsp; 
   <img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue&style=plastic&logo=php&logoColor=black">
@@ -36,19 +36,15 @@
   <img alt="flutter" src="https://img.shields.io/static/v1?label=%20&message=flutter&color=blue&style=plastic&logo=flutter&logoColor=black">
   &emsp;
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+   &emsp;
+   <img alt="Vue" src="https://img.shields.io/static/v1?label=%20&message=vue&color=green&style=plastic&logo=vue&logoColor=black">
    &emsp; 
-  <img alt="HTML" src="https://img.shields.io/static/v1?label=%20&message=HTML&color=orange&style=plastic&logo=html&logoColor=black">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   &emsp; 
-  <img alt="CSS" src="https://img.shields.io/static/v1?label=%20&message=CSS&color=blue&style=plastic&logo=css&logoColor=black">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
 </p>
 
 
-<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/dhananjaya-maha-malage-8252361a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
