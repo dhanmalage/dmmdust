@@ -27,17 +27,15 @@
 ## 🛠️ My Skills
 <p align="center"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue&style=plastic&logo=php&logoColor=black">
-   </a>
+  <img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue&style=plastic&logo=php&logoColor=black">
    &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+  <img alt="MySQL" src="https://img.shields.io/static/v1?label=%20&message=MySQL&color=blue&style=plastic&logo=mysql&logoColor=black">
+   &emsp; 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
+  <img alt="flutter" src="https://img.shields.io/static/v1?label=%20&message=flutter&color=blue&style=plastic&logo=flutter&logoColor=black">
+  &emsp;
+   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
 
