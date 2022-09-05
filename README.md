@@ -37,9 +37,9 @@
   &emsp;
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
    &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
    &emsp; 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   &emsp; 
@@ -47,12 +47,16 @@
 </p>
 
 
-## 🛠️ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## 🤝 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
+    &emsp;
 	<a href="mailto:dmmdust@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    &emsp;
 	<a href="https://twitter.com/dmmdust"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdmmdust" alt="Twitter"/></a>
+    &emsp;
 	<a href="https://github.com/dmmdust"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    &emsp;
 	<a href="https://www.linkedin.com/in/dhananjaya-maha-malage-8252361a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
   
