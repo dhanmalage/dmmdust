@@ -18,6 +18,8 @@
 
 <br>
 
+![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight)
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=algolia" alt="dmmdust" /></p>
 
@@ -43,11 +45,9 @@
 [![Dhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dmmdust&theme=tokyonight)](https://git.io/praveenscience)
 
 
-| ![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight) | ![Dhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=tokyonight) |
+| ![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmdust&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmdust&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <!---
 dmmdust/dmmdust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
