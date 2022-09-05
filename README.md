@@ -28,7 +28,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue">
+     <img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue&style=plastic&logo=php&logoColor=black">
    </a>
    &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
