@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=dmmdust.dmmdust)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmmdust.dmmdust&left_text=Profile%20views)
 [![Github](https://img.shields.io/github/followers/dmmdust?label=Follow&style=social)](https://github.com/dmmdust)
 
 - 👋 Hi, I’m @dmmdust
