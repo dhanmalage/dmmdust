@@ -16,7 +16,15 @@
 - 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Python`, `Flutter`, `Dart`
 - 📫 How to reach me **dmmdust@gmail.com**
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<br>
+
+## 🔥 Streak Stats
+<p align="center">![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight)</p>
+<p align="center">![Dhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=tokyonight)</p>
+<br>
+<br>
+
+<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/dmmdust?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -35,7 +43,7 @@
 [![Dhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dmmdust&theme=tokyonight)](https://git.io/praveenscience)
 
 
-| ![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=tokyonight) |
+| ![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight) | ![Dhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmdust&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
