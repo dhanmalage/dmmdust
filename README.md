@@ -19,8 +19,12 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center">![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight)</p>
-<p align="center">![Dhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=tokyonight)</p>
+
+![Dhan's github stats](https://github-readme-stats.vercel.app/api?username=dmmdust&show_icons=true&theme=tokyonight)
+
+
+![Dhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmmdust&theme=tokyonight)
+
 <br>
 <br>
 
