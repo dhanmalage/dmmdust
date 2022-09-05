@@ -13,7 +13,7 @@
 - 🧑‍💻 I love using Software as a solution for every Problem
 - 🤝 I’m available for `freelancing`
 - 🔥 Hire me on <a href="https://www.upwork.com/freelancers/~01d794db5bd4dfe6af" target="blank">Upwork</a>
-- 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Python`, `Flutter`, `Dart`
+- 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Laravel`, `CodeIgniter`, `WordPress`, `Python`, `Flutter`, `Dart`
 - 📫 How to reach me **dmmdust@gmail.com**
 
 <br>
@@ -46,7 +46,6 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
 </p>
 
-<br>
 <br>
 <br>
 
