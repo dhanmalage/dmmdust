@@ -11,6 +11,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<div size='20px'> Hi! My name is Maha Malage. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
 <!---
 dmmdust/dmmdust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
