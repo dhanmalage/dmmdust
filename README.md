@@ -1,3 +1,10 @@
+<h1> Hello Fellow < Developers/ >! <img src = "assets/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=dmmdust.dmmdust)
+[![Github](https://img.shields.io/github/followers/dmmdust?label=Follow&style=social)](https://github.com/dmmdust)
+
 - 👋 Hi, I’m @dmmdust
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
