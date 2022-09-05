@@ -1,4 +1,4 @@
-<h1> Hello There, Fellow < Developers/ >! 👋 </h1>
+<h1> Hello there, fellow < Developers/ >! <img src = "/assets/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
