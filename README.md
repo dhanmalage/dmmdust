@@ -1,4 +1,4 @@
-<h1> Hello there, fellow < Developers/ >! <img src = "/assets/wave.gif" width = 30px> </h1>
+<h1> Hello there, fellow < Developers/ >! <img src = "https://github.com/dmmdust/dmmdust/blob/main/assets/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
