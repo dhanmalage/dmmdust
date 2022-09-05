@@ -46,6 +46,9 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
 </p>
 
+<br>
+<br>
+<br>
 
 ## 🤝 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
@@ -60,9 +63,9 @@
 	<a href="https://www.linkedin.com/in/dhananjaya-maha-malage-8252361a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
   
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
   
 [![Dhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dmmdust&theme=algolia)](https://git.io/praveenscience)
 
