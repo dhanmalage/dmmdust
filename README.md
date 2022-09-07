@@ -15,6 +15,7 @@
 - 🔥 Hire me on <a href="https://www.upwork.com/freelancers/~01d794db5bd4dfe6af" target="blank">Upwork</a>
 - 💬 Ask me about `php`, `JavaScript`, `MySQL`, `Laravel`, `CodeIgniter`, `WordPress`, `Python`, `Flutter`, `Dart`
 - 📫 How to reach me **dmmdust@gmail.com**
+- 🗒 My resume <a href="https://dmmdust.github.io/resume/" target="blank">https://dmmdust.github.io/resume/</a>
 
 <br>
 
