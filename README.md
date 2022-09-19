@@ -26,27 +26,11 @@
 <br>
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-<p align="center"> 
-  &emsp;
 
-  <a href="#"><img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue&style=plastic&logo=php&logoColor=black"></a>
-   &emsp; 
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/static/v1?label=%20&message=MySQL&color=informational&style=plastic&logo=mysql&logoColor=black"></a>
-   &emsp; 
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="flutter" src="https://img.shields.io/static/v1?label=%20&message=flutter&color=blue&style=plastic&logo=flutter&logoColor=black"></a>
-  &emsp;
-   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
-   &emsp;
-   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-   &emsp; 
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
-  &emsp; 
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
-</p>
+- Laravel, Codeigniter, Wordpress
+- PHP, MySQL, JavaScript, Python, Flutter, Dart
+- Git, Linux, Apache, Ngnix, Vagrant
+- HTML, CSS, jQuery, Bootstrap
 
 <br>
 <br>
