@@ -27,7 +27,8 @@
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="center"> 
-  &emsp; 
+  &emsp;
+
   <a href="#"><img alt="php" src="https://img.shields.io/static/v1?label=%20&message=php&color=blue&style=plastic&logo=php&logoColor=black"></a>
    &emsp; 
   <a href="#"><img alt="MySQL" src="https://img.shields.io/static/v1?label=%20&message=MySQL&color=informational&style=plastic&logo=mysql&logoColor=black"></a>
@@ -52,16 +53,11 @@
 
 ## 🤝 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-<p align="center">
-    &emsp;
-	<a href="mailto:dmmdust@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    &emsp;
-	<a href="https://twitter.com/dmmdust"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdmmdust" alt="Twitter"/></a>
-    &emsp;
-	<a href="https://github.com/dmmdust"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    &emsp;
-	<a href="https://www.linkedin.com/in/dhananjaya-maha-malage-8252361a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+- <a href="mailto:dmmdust@gmail.com">GMail</a>
+- <a href="https://www.linkedin.com/in/dhananjaya-maha-malage-8252361a/">LinkedIn</a>
+- <a href="https://twitter.com/dmmdust">Twitter</a>
+- <a href="https://github.com/dmmdust">GitHub</a>
+- <a href="https://stackoverflow.com/users/4322960/dhan">Stackoverflow</a>
   
 <br>
 <br>
